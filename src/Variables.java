@@ -4,7 +4,7 @@ public class Variables {
 
 
 }
-class B{
+class D{
     public static void main(String[] args) {
         Variables v1=new Variables();
         System.out.println(Variables.j);
